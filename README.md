@@ -206,9 +206,9 @@ Hay que decidir si usamos BD Local o Atlas:
 
 ENVIO A GITHUB DE LA CLASE
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M rama001
-git remote add origin https://github.com/sgbdpdv2021/resapitriangulo000.git
+git remote add origin https://github.com/sgbdpdv2021/restapitriangulo002.git
 git push -u origin rama001
 
